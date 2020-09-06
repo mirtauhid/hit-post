@@ -1,0 +1,7 @@
+.photoRound img{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin-top: 18px;
+    margin-right: 10px;
+}

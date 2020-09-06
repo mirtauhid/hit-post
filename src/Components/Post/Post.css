@@ -1,0 +1,16 @@
+.cardContainer{
+    float:left;
+    margin-left: 3px;
+    margin-top: 10px;
+}
+.card{
+    width: 290px;
+    height: 220px;
+    margin: 10px;
+}
+@media screen and (max-width: 531px){
+    .cardContainer{
+        margin-left: 20%;
+        margin-top: 10px;
+    }
+}
